@@ -5,7 +5,7 @@
 
 
 ## 💻 Sobre o projeto
-Repositório criado para o curso de desenvolvimento web completo Ministrado pelo professor Andre Fontenelle, contém alguns dos exercício de **JAVASCRIPT** realizado durante o curso.
+Repositório criado para o bootcamp da **Digital Innovation One**, contém alguns dos exercício de **JAVASCRIPT** realizado durante o curso.
   
 
 
